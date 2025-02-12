@@ -13,7 +13,6 @@ An advanced To-Do List web app with task categories, due dates, local storage, a
 - [Feedback/Suggestions](#feedbacksuggestions)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -85,7 +84,7 @@ The code is written in a **modular** way. This means it is divided into small, m
 
 ## Live Demo
 
-Check out the live demo of the To-Do List Project [here](https://example.com/live-demo).
+Check out the live demo of the To-Do List Project [here](https://mhaseebaslam.github.io/todo-list-project/).
 
 ## Feedback/Suggestions
 
